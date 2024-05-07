@@ -7,13 +7,16 @@ Use a GoPro as a dash camera.
 [HERO10 Black](https://media.githubusercontent.com/media/gopro/labs/master/docs/firmware/lfs/LABS_HERO10_01_60_70.zip)<br>
 
 ### Step II. Reset all metadata
-`!RESET`
+`!RESET`<br>
+![RESET](images/RESET.png)
 
 ### Step III. Load `dashcam` script at boot
-`*BOOT="!Ldashcam"`
+`*BOOT="!Ldashcam"`<br>
+![BOOT](images/BOOT.png)
 
 ### Step IV. Save the following commands as a script called `dashcam`
-`!SAVEdashcam=!C64oC5mV5!S`
+`!SAVEdashcam=!C64oC5mV5!S`<br>
+![SAVE](images/SAVE.png)
 
 explanation:<br>
 `!C64`: Clear up to 64GB of data, the older files will be removed.<br>
