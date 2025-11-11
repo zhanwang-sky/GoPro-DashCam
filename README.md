@@ -1,10 +1,7 @@
 # GoPro-DashCam
-Use a GoPro as a dash camera.
+Use GoPro as a dash camera.
 
 ### Step I. Download and install [GoPro Labs](https://gopro.com/en/us/info/gopro-labs) firmware
-[HERO12 Black](https://media.githubusercontent.com/media/gopro/labs/master/docs/firmware/lfs/LABS_HERO12_02_20_70.zip)<br>
-[HERO11 Black](https://media.githubusercontent.com/media/gopro/labs/master/docs/firmware/lfs/LABS_HERO11_02_30_70.zip)<br>
-[HERO10 Black](https://media.githubusercontent.com/media/gopro/labs/master/docs/firmware/lfs/LABS_HERO10_01_60_70.zip)<br>
 
 ### Step II. Reset all metadata
 `!RESET`<br>
@@ -24,4 +21,4 @@ explanation:<br>
 `mV5`: Video mode 5 (Basic mode).<br>
 `!S`: Start capture immediately.<br>
 
-Now, restart your GoPro, it will automatically capture video using Basic mode.
+Now, restart your GoPro, it will automatically capture video.
