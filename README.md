@@ -12,13 +12,11 @@ Use GoPro as a dash camera.
 ![BOOT](images/BOOT.png)
 
 ### Step IV. Save the following commands as a script called `dashcam`
-`!SAVEdashcam=!C64oC5mV5!S`<br>
+`!SAVEdashcam=!C64mSoMPRES="15,DashCam"mSr1080p30e1!NfW0t0hS0dR7200aSoC5!S`<br>
 ![SAVE](images/SAVE.png)
 
 explanation:<br>
 `!C64`: Clear up to 64GB of data, the older files will be removed.<br>
-`oC5`: Power off after 5 mins.<br>
-`mV5`: Video mode 5 (Basic mode).<br>
 `!S`: Start capture immediately.<br>
 
 Now, restart your GoPro, it will automatically capture video.
