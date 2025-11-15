@@ -16,9 +16,9 @@ Use GoPro as a dash camera.
 ![SAVE](images/SAVE.png)
 
 explanation:<br>
-`!C64`: Clear up to 64GB of data, the older files will be removed.<br>
-`oC5`: Power off after 5 mins.<br>
-`mV`: Video mode.<br>
-`!S`: Start capture immediately.<br>
+`!C64`: Clears up to 64GB.<br>
+`oC5`: option Camera Auto Off - 5min.<br>
+`mV`: mode Video.<br>
+`!S`: Start now.<br>
 
 Now, restart your GoPro, it will automatically capture video.
